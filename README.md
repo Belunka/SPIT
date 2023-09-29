@@ -28,7 +28,7 @@ SPIT (Beta 2023.10.01)
 
 
 1) Κατεβάστε το APK Αρχείο πατώντας πάνω εδώ: 
-([Download SPIT](https://github.com/Belunka/SPIT-Open-Beta-Early-Access/raw/main/SPIT.apk) 📱)
+([Download SPIT](https://github.com/Belunka/SPIT/raw/main/SPIT.apk) 📱)
 
 2) Πατήστε πάνω στο αρχείο που σας κατέβηκε (Η προεπιλεγμένη θέση είναι στις 
 λήψεις , διαφορετικά ψάξτε στην κάρτα μνήμης).
